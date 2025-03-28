@@ -1,5 +1,7 @@
 # Súmario da documentação
 
+## Questão sobre SQL
+
 Na pasta SQL tem o passo a passo para instalação do servidor MySQL 8 e instalação da interface gráfica MySQL Workbench
 
 ### Possiveis problemas que podems ser encontrados:
@@ -33,3 +35,9 @@ Para que assim os arquivos possam ser acessados pelo MySQL
 
 Qualquer duvida durante o processo de teste entra em contato comigo
 XD
+
+
+
+## Questão sobre API
+
+A API esta na pasta API e as instruções para utilizar a mesma estão na pasta Instruções para uso
